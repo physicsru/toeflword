@@ -6,3 +6,4 @@
 1.05 abstract=not concrete 抽象的 absurd=ridiculous 荒谬的 abundance=great number 大量\
 1.06 abundance=large amount 大量  abundant=large amount 大量的 abundant=affluent 丰富的，大量的\
 1.07 abundant=ample 丰富的  abundant=plentiful 丰富的 abundant=substantial 丰富的 大量的\
+1.08 accelerate=speed up/get faster 加速 access=reach 到达  accessible=easy to reach 易接近的\
