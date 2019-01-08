@@ -7,3 +7,4 @@
 1.06 abundance=large amount 大量  abundant=large amount 大量的 abundant=affluent 丰富的，大量的\
 1.07 abundant=ample 丰富的  abundant=plentiful 丰富的 abundant=substantial 丰富的 大量的\
 1.08 accelerate=speed up/get faster 加速 access=reach 到达  accessible=easy to reach 易接近的\
+1.09 accidental=unexpected 意外的，偶然的 acclaimed=praisable 值得表扬的 accommodate=provide 提供\
