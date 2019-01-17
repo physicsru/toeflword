@@ -14,4 +14,5 @@
 1.13 actually=in fact 事实上 added=extra 附加的,额外的 adept=skilled 熟练的\
 1.14 adequately=sufficiently 足够地 adherent=supporter 拥护者 adherent=advocate 追随者 提倡者\
 1.15 adjacency=nearing 邻接 adjust=modify 调整 改变..以适应 administer=manage 管理\
-1.16 admire=respect 敬重 admit=let in 准许进入 adopt=enact 采用
+1.16 admire=respect 敬重 admit=let in 准许进入 adopt=enact 采用\
+1.17 advance=improvement 发展 增长 advent=arrival 出现 到来 affair=matter 事件 事情\
