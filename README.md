@@ -16,3 +16,6 @@
 1.15 adjacency=nearing 邻接 adjust=modify 调整 改变..以适应 administer=manage 管理\
 1.16 admire=respect 敬重 admit=let in 准许进入 adopt=enact 采用\
 1.17 advance=improvement 发展 增长 advent=arrival 出现 到来 affair=matter 事件 事情\
+1.18 afford=provide 提供 给予 aggravate=annoy 使恼火 aggravate=increase 加重 增剧\
+1.19 aggregate=combined 聚集的 合计的 aggregation=overall 聚合的 合计的\ agile=astute 灵活的 敏捷的\
+1.20 aggregation=group 聚合 聚集 agile=clever 灵活的 敏捷的 agile=move and act quikly 灵活的 敏捷的
