@@ -18,4 +18,9 @@
 1.17 advance=improvement 发展 增长 advent=arrival 出现 到来 affair=matter 事件 事情\
 1.18 afford=provide 提供 给予 aggravate=annoy 使恼火 aggravate=increase 加重 增剧\
 1.19 aggregate=combined 聚集的 合计的 aggregation=overall 聚合的 合计的\ agile=astute 灵活的 敏捷的\
-1.20 aggregation=group 聚合 聚集 agile=clever 灵活的 敏捷的 agile=move and act quikly 灵活的 敏捷的
+1.20 aggregation=group 聚合 聚集 agile=clever 灵活的 敏捷的 agile=move and act quikly 灵活的 敏捷的\
+1.21 air=feeling 气氛 alarm=sound 警报 alarm=warning 警告\
+1.22 albeit=even though 尽管 虽然 albeit=although 尽管 虽然 alleged=asserted 宣称\
+1.23 alleged=supposed 假定 断言 allocation=distribution 分配 allow=enable 允许\
+1.24 allude to=refer to 提到 allude=suggest 暗示 ally with=link to 结盟\
+1.25 alter=change to 改变 amazing=remarkable/replacement 令人惊讶的 非凡的 ambiguous=more than one meaning 模棱两可的
