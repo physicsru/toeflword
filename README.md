@@ -23,4 +23,11 @@
 1.22 albeit=even though 尽管 虽然 albeit=although 尽管 虽然 alleged=asserted 宣称\
 1.23 alleged=supposed 假定 断言 allocation=distribution 分配 allow=enable 允许\
 1.24 allude to=refer to 提到 allude=suggest 暗示 ally with=link to 结盟\
-1.25 alter=change to 改变 amazing=remarkable/replacement 令人惊讶的 非凡的 ambiguous=more than one meaning 模棱两可的
+1.25 alter=change to 改变 amazing=remarkable/replacement 令人惊讶的 非凡的 ambiguous=more than one meaning 模棱两可的\
+1.26 amgiguous=vague 不明确的 ambitious = keen/energitic 渴望做某事  ambivalent=mixed 矛盾的\
+1.27 ample=spacious 宽敞的 ample=plentiful 丰富的 amplition=magnification 放大\
+1.28 analogue to=similiar to 相似的 ancestor=forefather/progenitor 祖先 anchor=hold in place 固定\
+1.29 antient=antique 古老的 antient=old 古老的 annihilate=completely remove 消灭\
+1.30 annihilate=destroy 消灭 annually=yearly 每年地 anomaly=irregularity 异常的人或物\
+1.31 anonymous=nameless/incognito 不具名的 antagonist=competitor 对手 anticipate=expect 预期\
+2.01 antiseptic=clean 抗菌的 antithesis=opposite 对立面 antler=horn 鹿角
